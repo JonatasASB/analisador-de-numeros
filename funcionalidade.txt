@@ -1,0 +1,13 @@
+input recebe um numero entre 1 à 100
+acrescenta esse numero a um select com o botão em baixo
+caso o valor adicionado ja tenha sido adicionaod antes, emitirá um alerta (valor inválido ou já encontrado na lista)
+Caso valor esteja fora de 1 e 100 emitirá o um alerta (valor inválido ou já encontrado na lista)
+Caso deixe a caixa de recebimento vazia, emitirá o alerta (valor inválido ou já encontrado na lista)
+Caso clique no botão para mostrar resultados sem nenhum elemento dentro emitirá o alerta (adicione valores antes de finalizar)
+quando os numeros forem adicionados e posteriormente houver um click no botão do select aparecerá os resultados:
+Ao todo temos ${x} numeros cadastrados
+O maior valor informado foi ${}
+O menor valor informado foi ${}
+Somando todos os valores, temos ${}
+a média dos valores digitados é ${}
+Caso seja adicionado um numero posteriormente ao input os resultados devem desaparecer
